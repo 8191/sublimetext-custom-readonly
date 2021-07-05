@@ -1,0 +1,7 @@
+[
+  {
+    "caption": "Toggle Read-only Mode",
+    "command": "toggle_readonly_mode",
+    "id": "custom-readonly"
+  }
+]
